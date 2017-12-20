@@ -1,4 +1,5 @@
 clear;clc;close all;
+
 hold on; % Mantener gráficos
 a = 4; % Longitud de la caja sobre el eje u
 b = 2; % Longitud de la caja sobre el eje v
